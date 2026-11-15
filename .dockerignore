@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+*.pdf
+README.md
+LICENSE
+Dockerfile*
+compose.yaml
+proxy.yaml
+nginx
+haproxy
